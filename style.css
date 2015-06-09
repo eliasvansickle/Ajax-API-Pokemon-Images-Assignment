@@ -42,5 +42,11 @@ blockquote, q {
 	}
 
 /*====================MY CODE BELOW======================================*/
+#wrapper {
+	background-color: red;
+	margin: 0 auto;
+	max-width: 970px;
+	min-height: 500px;
 
+}
 
